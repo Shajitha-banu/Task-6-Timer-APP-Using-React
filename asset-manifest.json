@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Task-6-Timer-APP-Using-React/static/css/main.25db2cbb.css",
+    "main.js": "/Task-6-Timer-APP-Using-React/static/js/main.6af950da.js",
+    "index.html": "/Task-6-Timer-APP-Using-React/index.html",
+    "main.25db2cbb.css.map": "/Task-6-Timer-APP-Using-React/static/css/main.25db2cbb.css.map",
+    "main.6af950da.js.map": "/Task-6-Timer-APP-Using-React/static/js/main.6af950da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25db2cbb.css",
+    "static/js/main.6af950da.js"
+  ]
+}
